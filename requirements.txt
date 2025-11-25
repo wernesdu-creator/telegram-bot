@@ -1,5 +1,5 @@
 aiogram==3.1.1
-yt-dlp
+yt-dlp==2024.10.22
 pillow
 python-dotenv
 ffmpeg-python
